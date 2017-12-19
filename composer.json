@@ -1,5 +1,5 @@
 {
-    "name": "aliyuncs/aliyun-dysms-php-sdk",
+    "name": "aqrun/aliyun-dysms-php-sdk",
     "description": "Aliyun SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk" ],
     "type": "library",
@@ -7,8 +7,8 @@
     "homepage": "https://www.aliyun.com/product/sms",
     "authors": [
         {
-            "name": "Aliyuncs",
-            "homepage": "https://www.aliyun.com"
+            "name": "aqrun",
+            "homepage": "https://www.aqrun.com"
         }
     ],
     "require": {
